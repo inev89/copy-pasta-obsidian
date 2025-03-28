@@ -39,12 +39,14 @@
             "id": "500cbe612e5afac1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250328160016.png"
+                "file": "1. Network/7. Antivirus/Windows Defender.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250328160016"
+              "icon": "lucide-file",
+              "title": "Windows Defender"
             }
           }
         ],
@@ -167,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20250328160016.png",
+                "file": "1. Network/7. Antivirus/Windows Defender.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20250328160016"
+              "title": "Outline of Windows Defender"
             }
           }
         ],
@@ -193,12 +195,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "414393e09c37a0e9",
+  "active": "500cbe612e5afac1",
   "lastOpenFiles": [
+    "1. Network/5. Tunneling/3. Agnostic/Metasploit.md",
+    "1. Network/5. Tunneling/3. Agnostic/Ligolo-NG.md",
+    "1. Network/5. Tunneling/3. Agnostic/Chisel.md",
+    "Pasted image 20250328160016.png",
     "Pasted image 20250327110033.png",
     "Pasted image 20250327111312.png",
     "2. Web Applications/14. Websockets/Websockets.md",
-    "Pasted image 20250328160016.png",
     "1. Network/2. Enumeration/3. Active Directory/Bloodhound.md",
     "2. Web Applications/14. Websockets",
     "2. Web Applications/2. Broken Auth/Login Bruteforcing.md",
@@ -224,8 +229,6 @@
     "1. Network/6. Phishing/Windows Library Payload.md",
     "1. Network/6. Phishing/SWAKS.md",
     "1. Network/2. Enumeration/1. Linux/Checklist.md",
-    "1. Network/0. Checklists/1. Linux.md",
-    "1. Network/4. Post Exploitation/1. Privilege Escalation/Linux/LinPeas.md",
     "2. Web Applications/9. Deserialization",
     "1. Network/1. Recon/DNS/Untitled",
     "4. Mobile/1. Android",
