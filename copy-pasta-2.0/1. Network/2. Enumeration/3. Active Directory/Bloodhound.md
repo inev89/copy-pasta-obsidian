@@ -28,7 +28,9 @@ bloodhound-python -c all -u james -p 'J@m3s_P@ssW0rd!'  -ns 10.10.10.52 -d htb.l
 bloodhound-python -c <collection method> -u <username> -p <password>  -ns <dns-server> -d <domain> --zip
 ```
 
-
+```bash
+nxc ldap 10.1.1.1 -u 'username' -p 'password' --bloodhound --collection ALL --dns-server 10.1.1.1
+```
 # Bloodhound
   
 ## local  

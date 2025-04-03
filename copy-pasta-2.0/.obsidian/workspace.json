@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Network/7. Antivirus/Windows Defender.md",
+                "file": "2. Web Applications/10. Wordpress/Enumeration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Windows Defender"
+              "title": "Enumeration"
             }
           }
         ],
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Network/7. Antivirus/Windows Defender.md",
+                "file": "2. Web Applications/10. Wordpress/Enumeration.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Windows Defender"
+              "title": "Outline of Enumeration"
             }
           }
         ],
@@ -197,14 +197,24 @@
   },
   "active": "500cbe612e5afac1",
   "lastOpenFiles": [
+    "2. Web Applications/14. Websockets/Websockets.md",
+    "1. Network/2. Enumeration/3. Active Directory/Bloodhound.md",
+    "2. Web Applications/11. Web Services and APIs/API Attacks.md",
+    "1. Network/5. Tunneling/1. Linux/SOCAT.md",
+    "1. Network/5. Tunneling/1. Linux/SSH Tunneling.md",
+    "1. Network/5. Tunneling/1. Linux/sshuttle.md",
+    "2. Web Applications/12. DNS Rebinding/DNS Rebinding.md",
+    "2. Web Applications/10. Wordpress/Exploitation.md",
+    "2. Web Applications/10. Wordpress/Enumeration.md",
+    "2. Web Applications/8. Fuzzing/FFUF (Fuzz Faster U Fool).md",
+    "2. Web Applications/7. Session Security/Session Security.md",
+    "1. Network/7. Antivirus/Windows Defender.md",
     "1. Network/5. Tunneling/3. Agnostic/Metasploit.md",
     "1. Network/5. Tunneling/3. Agnostic/Ligolo-NG.md",
     "1. Network/5. Tunneling/3. Agnostic/Chisel.md",
     "Pasted image 20250328160016.png",
     "Pasted image 20250327110033.png",
     "Pasted image 20250327111312.png",
-    "2. Web Applications/14. Websockets/Websockets.md",
-    "1. Network/2. Enumeration/3. Active Directory/Bloodhound.md",
     "2. Web Applications/14. Websockets",
     "2. Web Applications/2. Broken Auth/Login Bruteforcing.md",
     "2. Web Applications/6. IDOR/IDOR (Insecure Direct Object References).md",
@@ -217,18 +227,8 @@
     "1. Network/1. Recon/IMAP_POP/NMAP.md",
     "5. Misc/Scripts.md",
     "5. Misc/Metasploit/Post-Exploitation.md",
-    "2. Web Applications/12. DNS Rebinding/DNS Rebinding.md",
     "2. Web Applications/13. Second-Order Attacks",
-    "2. Web Applications/12. DNS Rebinding/SSRF.md",
-    "2. Web Applications/3. Server Side Attacks/1. Server-Side Request Forgery.md",
-    "2. Web Applications/Intermediary Applications/AJP Proxy.md",
-    "2. Web Applications/3. Server Side Attacks/3. Edge-Side Includes.md",
-    "2. Web Applications/10. Wordpress/Enumeration.md",
     "2. Web Applications/12. DNS Rebinding",
-    "1. Network/6. Phishing/WebDAV.md",
-    "1. Network/6. Phishing/Windows Library Payload.md",
-    "1. Network/6. Phishing/SWAKS.md",
-    "1. Network/2. Enumeration/1. Linux/Checklist.md",
     "2. Web Applications/9. Deserialization",
     "1. Network/1. Recon/DNS/Untitled",
     "4. Mobile/1. Android",
