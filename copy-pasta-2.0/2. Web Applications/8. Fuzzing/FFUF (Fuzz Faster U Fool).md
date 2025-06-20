@@ -17,7 +17,7 @@ ffuf -w /usr/share/wordlists/seclists/Discovery/Web-Content/directory-list-2.3-s
 
 ### Sub-domain Fuzzing
 ```bash
-ffuf -w /usr/share/wordlists/seclists/Discovery/DNS/subdomains-top1million-5000.txt:FUZZ -u https://FUZZ.inlanefreight.com/
+ffuf -w /usr/share/wordlists/seclists/Discovery/DNS/subdomains-top1million-5000.txt:FUZZ -u http://inlanefreight.com/ -H "Host:FUZZ.inlanefreight.htb"
 ```
 
 ### Parameter Fuzzing

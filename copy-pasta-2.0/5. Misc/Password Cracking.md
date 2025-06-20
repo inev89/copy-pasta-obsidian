@@ -66,7 +66,10 @@ mono ~/Inev/tools/KeePass/KeePass.exe [file]
 ```
 zip2john file.zip > zip.hashes  
 ```
-  
+
+```
+7z2john file.7z > zip.hashes
+```
 # for 7z  
 ```
 hashcat -m 11600 ziphashes /usr/share/wordlists/rockyou.txt   

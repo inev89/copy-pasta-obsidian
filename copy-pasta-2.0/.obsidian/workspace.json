@@ -8,49 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8a59fa55a21f8ba8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Web Applications/3. Server Side Attacks/3. Edge-Side Includes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Edge-Side Includes"
-            }
-          },
-          {
-            "id": "a9f95c9373e322cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Web Applications/3. Server Side Attacks/3. Edge-Side Includes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Edge-Side Includes"
-            }
-          },
-          {
             "id": "500cbe612e5afac1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Web Applications/10. Wordpress/Enumeration.md",
+                "file": "1. Network/5. Tunneling/3. Agnostic/Ligolo-NG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enumeration"
+              "title": "Ligolo-NG"
+            }
+          },
+          {
+            "id": "9bfffb33fd4876f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Mobile/1. Android/Using Frida Without Root.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Using Frida Without Root"
+            }
+          },
+          {
+            "id": "3de3299811d7faf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/3. ASEP Roasting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. ASEP Roasting"
+            }
+          },
+          {
+            "id": "623f12fa175df8eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/3. ASEP Roasting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. ASEP Roasting"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bloodhound",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Web Applications/10. Wordpress/Enumeration.md",
+                "file": "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/3. ASEP Roasting.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Enumeration"
+              "title": "Outline of 3. ASEP Roasting"
             }
           }
         ],
@@ -195,38 +209,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "500cbe612e5afac1",
+  "active": "623f12fa175df8eb",
   "lastOpenFiles": [
-    "2. Web Applications/14. Websockets/Websockets.md",
-    "1. Network/2. Enumeration/3. Active Directory/Bloodhound.md",
-    "2. Web Applications/11. Web Services and APIs/API Attacks.md",
-    "1. Network/5. Tunneling/1. Linux/SOCAT.md",
-    "1. Network/5. Tunneling/1. Linux/SSH Tunneling.md",
-    "1. Network/5. Tunneling/1. Linux/sshuttle.md",
-    "2. Web Applications/12. DNS Rebinding/DNS Rebinding.md",
-    "2. Web Applications/10. Wordpress/Exploitation.md",
-    "2. Web Applications/10. Wordpress/Enumeration.md",
-    "2. Web Applications/8. Fuzzing/FFUF (Fuzz Faster U Fool).md",
-    "2. Web Applications/7. Session Security/Session Security.md",
-    "1. Network/7. Antivirus/Windows Defender.md",
-    "1. Network/5. Tunneling/3. Agnostic/Metasploit.md",
-    "1. Network/5. Tunneling/3. Agnostic/Ligolo-NG.md",
     "1. Network/5. Tunneling/3. Agnostic/Chisel.md",
+    "2. Web Applications/0. Checklist/Misc.md",
+    "5. Misc/git.md",
+    "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/Tombstones.md",
+    "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/1. DACLs.md",
+    "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/6. Silver Tickets.md",
+    "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/5. DCSync.md",
+    "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/3. ASEP Roasting.md",
+    "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/2. Kerberoasting.md",
+    "1. Network/4. Post Exploitation/2. Lateral Movement/2. Windows/WMI and WinRM.md",
+    "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/4. Certificate Services.md",
+    "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/1. DACL/Untitled 1.md",
+    "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/1. DACL/Untitled.md",
+    "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/1. DACL",
+    "1. Network/4. Post Exploitation/2. Lateral Movement/2. Windows/NTLMRelay.md",
+    "1. Network/4. Post Exploitation/2. Lateral Movement/2. Windows/Overpass the Hash.md",
+    "1. Network/4. Post Exploitation/2. Lateral Movement/2. Windows/Pass the Hash.md",
+    "1. Network/4. Post Exploitation/2. Lateral Movement/2. Windows/Pass the Ticket.md",
+    "5. Misc/Full TTY.md",
+    "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory",
+    "1. Network/2. Enumeration/3. Active Directory/Bloodhound.md",
+    "2. Web Applications/8. Fuzzing/FFUF (Fuzz Faster U Fool).md",
+    "1. Network/1. Recon/DNS/3. gobuster.md",
+    "1. Network/1. Recon/Active Directory.md",
+    "4. Mobile/1. Android/Rooting an Android Device.md",
+    "4. Mobile/1. Android/Using Frida Without Root.md",
+    "1. Network/2. Enumeration/2. Windows/Checklist.md",
+    "2. Web Applications/3. Server Side Attacks/3. Edge-Side Includes.md",
     "Pasted image 20250328160016.png",
     "Pasted image 20250327110033.png",
     "Pasted image 20250327111312.png",
     "2. Web Applications/14. Websockets",
-    "2. Web Applications/2. Broken Auth/Login Bruteforcing.md",
-    "2. Web Applications/6. IDOR/IDOR (Insecure Direct Object References).md",
-    "2. Web Applications/13. Second-Order Attacks/Second-Order Attacks.md",
-    "5. Misc/Full TTY.md",
-    "5. Misc/git.md",
-    "5. Misc/iptables.md",
-    "5. Misc/Moving Data.md",
-    "1. Network/1. Recon/Nmap.md",
-    "1. Network/1. Recon/IMAP_POP/NMAP.md",
-    "5. Misc/Scripts.md",
-    "5. Misc/Metasploit/Post-Exploitation.md",
     "2. Web Applications/13. Second-Order Attacks",
     "2. Web Applications/12. DNS Rebinding",
     "2. Web Applications/9. Deserialization",
@@ -234,8 +250,6 @@
     "4. Mobile/1. Android",
     "1. Network/7. Antivirus",
     "1. Network/6. Phishing",
-    "Web Applications/2. Broken Auth/3. Auth Bypass",
-    "2. Web Applications/0. Checklist",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "1. Network/Images/Pasted image 20240618095811.png",
