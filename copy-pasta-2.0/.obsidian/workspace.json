@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Network/5. Tunneling/3. Agnostic/Ligolo-NG.md",
+                "file": "1. Network/2. Enumeration/3. Active Directory/Bloodhound.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ligolo-NG"
+              "title": "Bloodhound"
             }
           },
           {
@@ -69,16 +69,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Web Applications/1. Injection/3. Cypher Injection.md",
+                "file": "5. Misc/Password Cracking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Cypher Injection"
+              "title": "Password Cracking"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nxc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +130,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Web Applications/1. Injection/3. Cypher Injection.md",
+                "file": "1. Network/2. Enumeration/3. Active Directory/Bloodhound.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. Cypher Injection"
+              "title": "Outline of Bloodhound"
             }
           }
         ],
@@ -223,36 +223,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75b44a597c230c67",
+  "active": "500cbe612e5afac1",
   "lastOpenFiles": [
-    "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/3. ASEP Roasting.md",
-    "2. Web Applications/1. Injection/3. Cypher Injection.md",
-    "1. Network/5. Tunneling/3. Agnostic/Chisel.md",
-    "2. Web Applications/0. Checklist/Misc.md",
-    "5. Misc/git.md",
-    "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/Tombstones.md",
-    "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/1. DACLs.md",
-    "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/6. Silver Tickets.md",
-    "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/5. DCSync.md",
-    "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/2. Kerberoasting.md",
-    "1. Network/4. Post Exploitation/2. Lateral Movement/2. Windows/WMI and WinRM.md",
-    "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/4. Certificate Services.md",
-    "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/1. DACL/Untitled 1.md",
-    "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/1. DACL/Untitled.md",
-    "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/1. DACL",
-    "1. Network/4. Post Exploitation/2. Lateral Movement/2. Windows/NTLMRelay.md",
-    "1. Network/4. Post Exploitation/2. Lateral Movement/2. Windows/Overpass the Hash.md",
+    "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/5. Silver Tickets.md",
+    "1. Network/6. Phishing/SWAKS.md",
+    "1. Network/6. Phishing/Windows Library Payload.md",
+    "1. Network/6. Phishing/WebDAV.md",
+    "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/Kerberos/3. Delegations.md",
+    "5. Misc/Shellcode.md",
     "1. Network/4. Post Exploitation/2. Lateral Movement/2. Windows/Pass the Hash.md",
-    "1. Network/4. Post Exploitation/2. Lateral Movement/2. Windows/Pass the Ticket.md",
+    "1. Network/4. Post Exploitation/2. Lateral Movement/2. Windows/Overpass the Hash.md",
+    "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/6. Tombstones.md",
+    "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/4. DCSync.md",
+    "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/3. Certificate Services.md",
+    "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/2. DACLs.md",
+    "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/1. Enumeration.md",
+    "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/Kerberos/1. Kerberoast.md",
+    "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/Kerberos/2. ASEPRoast.md",
+    "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/Kerberos",
+    "Pasted image 20250723132618.png",
+    "Pasted image 20250723130557.png",
+    "Pasted image 20250723125914.png",
+    "1. Network/2. Enumeration/3. Active Directory/PowerView.md",
+    "5. Misc/Password Cracking.md",
+    "1. Network/0. Checklists/2. Windows.md",
+    "1. Network/0. Checklists/1. Linux.md",
     "5. Misc/Full TTY.md",
-    "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory",
-    "1. Network/2. Enumeration/3. Active Directory/Bloodhound.md",
-    "2. Web Applications/8. Fuzzing/FFUF (Fuzz Faster U Fool).md",
-    "1. Network/1. Recon/DNS/3. gobuster.md",
+    "2. Web Applications/3. Server Side Attacks/1. Server-Side Request Forgery.md",
     "1. Network/1. Recon/Active Directory.md",
-    "4. Mobile/1. Android/Rooting an Android Device.md",
-    "4. Mobile/1. Android/Using Frida Without Root.md",
-    "1. Network/2. Enumeration/2. Windows/Checklist.md",
+    "1. Network/1. Recon/DNS/3. gobuster.md",
+    "2. Web Applications/0. Checklist/Misc.md",
+    "1. Network/2. Enumeration/1. Linux/Checklist.md",
+    "1. Network/5. Tunneling/3. Agnostic/Ligolo-NG.md",
+    "Pasted image 20250630122617.png",
+    "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/1. DACL",
+    "1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory",
     "Pasted image 20250328160016.png",
     "Pasted image 20250327110033.png",
     "Pasted image 20250327111312.png",
@@ -263,15 +268,10 @@
     "1. Network/1. Recon/DNS/Untitled",
     "4. Mobile/1. Android",
     "1. Network/7. Antivirus",
-    "1. Network/6. Phishing",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "1. Network/Images/Pasted image 20240618095811.png",
     "1. Network/Images/Pasted image 20240621140243.png",
-    "1. Network/Images/Pasted image 20240705134337.png",
-    "1. Network/Images/Pasted image 20240628115017.png",
-    "1. Network/Images/Pasted image 20240628114633.png",
-    "1. Network/Images/Pasted image 20240618095720.png",
-    "Pasted image 20240618095705.png"
+    "1. Network/Images/Pasted image 20240705134337.png"
   ]
 }

