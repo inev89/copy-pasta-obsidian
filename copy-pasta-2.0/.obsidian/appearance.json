@@ -1,3 +1,6 @@
 {
-  "cssTheme": "Catppuccin"
+  "cssTheme": "Obsidianite",
+  "baseFontSize": 14,
+  "accentColor": "#1152e8",
+  "theme": "obsidian"
 }

