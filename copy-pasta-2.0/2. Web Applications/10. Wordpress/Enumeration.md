@@ -166,7 +166,7 @@ wpscan --hh
 The `--enumerate` flag is used to enumerate various components of the WordPress application such as plugins, themes, and users. By default, WPScan enumerates vulnerable plugins, themes, users, media, and backups. However, specific arguments can be supplied to restrict enumeration to specific components. For example, all plugins can be enumerated using the arguments `--enumerate ap`. Let's run a normal enumeration scan against a WordPress website.
 
 ```shell-session
-wpscan --url http://blog.inlanefreight.com --enumerate --api-token CWnMChFpk1VTJXUQSGJPu2ly45bQzM3GLnGMhvALvyE
+wpscan --url http://blog.inlanefreight.com --enumerate all --api-token CWnMChFpk1VTJXUQSGJPu2ly45bQzM3GLnGMhvALvyE
 ```
 
 ```
