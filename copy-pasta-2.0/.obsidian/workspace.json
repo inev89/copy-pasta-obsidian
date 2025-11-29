@@ -186,9 +186,23 @@
               "icon": "lucide-file",
               "title": "Password Cracking"
             }
+          },
+          {
+            "id": "729bd93d9bd64b3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Network/5. Tunneling/3. Agnostic/Ligolo-NG.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ligolo-NG"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -220,7 +234,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "showmount",
+                "query": "ligolo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -335,7 +349,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc6a466bab2c40ac",
+  "active": "729bd93d9bd64b3a",
   "lastOpenFiles": [
     "2. Web Applications/8. Fuzzing/FFUF (Fuzz Faster U Fool).md",
     "2. Web Applications/Misc/Cheatsheet.md",
