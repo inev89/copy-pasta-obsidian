@@ -193,12 +193,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Network/5. Tunneling/3. Agnostic/Ligolo-NG.md",
+                "file": "2. Web Applications/0. Checklist/Misc.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ligolo-NG"
+              "title": "Misc"
             }
           }
         ],
@@ -234,7 +234,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ligolo",
+                "query": "curl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -322,13 +322,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Network/5. Tunneling/3. Agnostic/Ligolo-NG.md",
+                "file": "2. Web Applications/0. Checklist/Misc.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ligolo-NG"
+              "title": "Outline of Misc"
             }
           }
         ],
@@ -351,6 +351,9 @@
   },
   "active": "729bd93d9bd64b3a",
   "lastOpenFiles": [
+    "2. Web Applications/10. Wordpress/Enumeration.md",
+    "2. Web Applications/1. Injection/1. SQL Injection/SQL Injection.md",
+    "1. Network/5. Tunneling/3. Agnostic/Ligolo-NG.md",
     "2. Web Applications/8. Fuzzing/FFUF (Fuzz Faster U Fool).md",
     "2. Web Applications/Misc/Cheatsheet.md",
     "1. Network/0. Checklists/2. Windows.md",
@@ -367,18 +370,15 @@
     "Untitled 1.base",
     "Untitled.base",
     "1. Network/1. Reconnaissance/DNS/3. gobuster.md",
-    "1. Network/5. Tunneling/3. Agnostic/Ligolo-NG.md",
     "3. Cloud/AWS/2. S3 Buckets.md",
     "3. Cloud/AWS/3. EC2 Compute.md",
     "3. Cloud/AWS/1. IAM Enumeration.md",
     "3. Cloud/AWS/4. STS (Security Token Service).md",
     "3. Cloud/AWS/5. Misc.md",
-    "2. Web Applications/10. Wordpress/Enumeration.md",
     "2. Web Applications/10. Wordpress/Exploitation.md",
     "5. Misc/Moving Data.md",
     "2. Web Applications/1. Injection/XML eXternal Entities (XXE).md",
     "1. Network/2. Enumeration/3. Active Directory/2. Bloodhound.md",
-    "1. Network/3. Exploitation/2. Windows/1. Mimikatz.md",
     "Untitled 2.base",
     "Untitled.canvas",
     "3. Cloud/flaws.cloud",
