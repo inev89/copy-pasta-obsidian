@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "bb357b680fbcac74",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0cabe1289bf151f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd08cdf2b9132a67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "copy-pasta-2.0/1. Network/2. Enumeration/1. Linux/1. Checklist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Checklist"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b44ab52ca965bf9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d6b566fad46a810",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79a1a536db9ec2d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b256268a4df47b3b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "cron",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c236b33db710dfc1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bd3cf1a6c6b313bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca1d713195296cbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db0fbe0c2fe988a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6cbd063255ab25f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "39fc3552989ffdbd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2616c7dd2c6777ca",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e3f5d367231a4276",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "bd08cdf2b9132a67",
+  "lastOpenFiles": [
+    "copy-pasta-2.0/3. Cloud/AWS/2. Enumeration/1. IAM Enumeration.md",
+    "copy-pasta-2.0/3. Cloud/AWS/4. STS (Security Token Service).md",
+    "copy-pasta-2.0/3. Cloud/AWS/2. Enumeration/3. EC2 Compute.md",
+    "copy-pasta-2.0/3. Cloud/AWS/2. S3 Buckets.md",
+    "copy-pasta-2.0/3. Cloud/AWS/2. Enumeration",
+    "copy-pasta-2.0/3. Cloud/AWS/1. Reconnaissiance",
+    "copy-pasta-2.0/1. Network/1. Reconnaissance/DNS/1. Dig.md",
+    "copy-pasta-2.0/1. Network/0. Checklists/2. Windows.md",
+    "copy-pasta-2.0/1. Network/4. Post Exploitation/2. Lateral Movement/2. Windows/2. NTLM MITM.md",
+    "copy-pasta-2.0/1. Network/2. Enumeration/3. Active Directory/2. Bloodhound.md",
+    "copy-pasta-2.0/2. Web Applications/1. Injection/3. Cypher Injection.md",
+    "copy-pasta-2.0/1. Network/5. Tunneling/3. Agnostic/Ligolo-NG.md",
+    "copy-pasta-2.0/1. Network/2. Enumeration/1. Linux/1. Checklist.md",
+    "copy-pasta-2.0/1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/3. Certificate Services.md",
+    "copy-pasta-2.0/1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/Kerberos/3. Delegations.md",
+    "copy-pasta-2.0/2. Web Applications/3. Server Side Attacks/1. Server-Side Request Forgery.md",
+    "copy-pasta-2.0/2. Web Applications/0. Checklist/Misc.md",
+    "copy-pasta-2.0/1. Network/4. Post Exploitation/2. Lateral Movement/3. Active Directory/Kerberos/1. Kerberoast.md",
+    "copy-pasta-2.0/2. Web Applications/3. Server Side Attacks/4. Server-Side Template Injections.md",
+    "copy-pasta-2.0/1. Network/5. Tunneling/1. Linux/SSH Tunneling.md",
+    "copy-pasta-2.0/1. Network/0. Checklists/1. Linux.md"
+  ]
+}

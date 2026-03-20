@@ -108,40 +108,9 @@ az network nsg rule list --name nsg-mgmt-eastus --resource-group theneighborhood
 az network nsg rule list --name nsg-mgmt-eastus --resource-group theneighborhood-rg2
 ```
 
-
 ## Show rules
 
 ```
 az network nsg rule show --nsg-name nsg-production-eastus --resource-group theneighborhood-rg1 --name "Allow-RDP-From-Internet"
 ```
 
-
-Your mission: Find a way to bypass the current restrictions and elevate to 
-fire safety admin privileges. Once you regain full access, run the special 
-command `/etc/firealarm/restore_fire_alarm` to restore complete fire alarm system control and 
-protect the Dosis neighborhood from potential emergencies.
-
-
-User chiuser may run the following commands on bb857d4cb228:
-    (root) NOPASSWD: /usr/local/bin/system_status.sh
-
-/usr/local/bin/system_status.sh
-
-
-🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨
-              DOSIS NEIGHBORHOOD FIRE ALARM SYSTEM - LOCKOUT MODE
-🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨🔥🚨
-
-🚨 EMERGENCY ALERT: Fire alarm system admin access has been compromised! 🚨
-The fire safety systems are experiencing interference and 
-admin privileges have been mysteriously revoked. The neighborhood's fire 
-protection infrastructure is at risk!
-
-⚠️ CURRENT STATUS: Limited to standard user access only
-🔒 FIRE SAFETY SYSTEMS: Partially operational but restricted
-🎯 MISSION CRITICAL: Restore full fire alarm system control
-
-Your mission: Find a way to bypass the current restrictions and elevate to 
-fire safety admin privileges. Once you regain full access, run the special 
-command `/etc/firealarm/restore_fire_alarm` to restore complete fire alarm system control and 
-protect the Dosis neighborhood from potential emergencies.
